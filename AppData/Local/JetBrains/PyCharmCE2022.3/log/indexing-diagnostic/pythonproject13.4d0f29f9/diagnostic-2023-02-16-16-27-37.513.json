@@ -1,0 +1,484 @@
+{
+  "appInfo" : {
+    "build" : "223.8617.48",
+    "buildDate" : "2023-01-24T13:40:28.202Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2023-02-16T11:27:37.5336565Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 17.0.5 17.0.5+1-b653.25"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1065353216,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 3,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "pythonProject13",
+    "times" : {
+      "indexingReason" : "On project open",
+      "scanningType" : "PARTIAL",
+      "totalUpdatingTime" : 53929980700,
+      "indexingTime" : 48366846700,
+      "contentLoadingVisibleTime" : 25220896576,
+      "creatingIteratorsTime" : 1998800,
+      "scanFilesTime" : 4657778600,
+      "pushPropertiesTime" : 0,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 2275242951,
+      "updatingStart" : "2023-02-16T11:26:43.5884855Z",
+      "updatingEnd" : "2023-02-16T11:27:37.5136109Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 6,
+      "numberOfScannedFiles" : 8030,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 2592,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 2116,
+      "numberOfFilesIndexedWithLoadingContent" : 2592
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 143765845800,
+        "total" : 144513712200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 75171952500,
+        "total" : 75368420400
+      },
+      "totalNumberOfFiles" : 2550,
+      "totalFilesSize" : 39634237,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 39634237,
+        "totalTime" : 143765845800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject13) C:/Users/ielts/AppData/Local/Programs/Python/Python39/DLLs, C:/Users/ielts/AppData/Local/Programs/Python/Python39/Lib, C:/Users/ielts/AppData/Local/Programs/Python/Python39, C:/Users/ielts/PycharmProjects/pythonProject13/venv, C:/Users/ielts/PycharmProjects/pythonProject13/venv/Lib/site-packages, C:/Users/ielts/AppData/Local/JetBrains/PyCharmCE2022.3/python_stubs/-878939191, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/python-skeletons, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stdlib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/six, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/boto, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/mock, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pytz, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/toml, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/annoy, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/babel, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/emoji, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/first, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/fpdf2, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/ldap3, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/polib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/redis, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/regex, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/retry, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/ujson, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/bleach, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/caldav, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/docopt, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/hdbcli, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/invoke, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/passpy, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Pillow, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/psutil, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pycurl, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pynput, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pysftp, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/PyYAML, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/stripe, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/xxhash, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/appdirs, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/certifi, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/chardet, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/chevron, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/passlib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyaudio, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/PyMySQL, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyvmomi, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/slumber, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/tzlocal, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/urllib3, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/vobject, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/aiofiles, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/colorama, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/croniter, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/docutils, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/filelock, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/html5lib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/httplib2, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/jmespath, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Markdown, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/oauthlib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/openpyxl, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/paramiko, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/psycopg2, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyflakes, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Pygments, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/requests, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/selenium, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/tabulate, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/toposort, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/waitress, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/braintree, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/decorator, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/freezegun, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/playsound, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyOpenSSL, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/termcolor, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/ttkthemes, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/typed-ast, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/xmltodict, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/cachetools, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/commonmark, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/dateparser, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Deprecated, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Flask-Cors, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/frozendict, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/jsonschema, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyfarmhash, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Send2Trash, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/setuptools, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/simplejson, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/SQLAlchemy, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/contextvars, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/dataclasses, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/entrypoints, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-2020, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/JACK-Client, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/mysqlclient, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/opentracing, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pep8-naming, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/prettytable, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-jose, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-nmap, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/stdlib-list, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/atomicwrites, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/aws-xray-sdk, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/cryptography, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/editdistance, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/parsimonious, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/whatthepatch, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/click-spinner, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/humanfriendly, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-gflags, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/beautifulsoup4, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/characteristic, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-bugbear, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-slugify, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/singledispatch, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-builtins, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-simplify, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-dateutil, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Flask-SQLAlchemy, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-docstrings, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-plugin-utils, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pytest-lazy-fixture, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-rst-docstrings, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-typing-imports, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/backports.ssl_match_hostname",
+        "numberOfFiles" : 1821,
+        "totalFilesSize" : 30553161,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 126909205500,
+          "total" : 143765845800
+        }
+      }, {
+        "providerName" : "Module 'pythonProject13' (pythonProject13)",
+        "numberOfFiles" : 729,
+        "totalFilesSize" : 9081076,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 16856640300,
+          "total" : 143765845800
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 565616200,
+        "total" : 144513712200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 142411300,
+        "total" : 75368420400
+      },
+      "totalNumberOfFiles" : 31,
+      "totalFilesSize" : 421224,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 421224,
+        "totalTime" : 565616200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'pythonProject13' (pythonProject13)",
+        "numberOfFiles" : 31,
+        "totalFilesSize" : 421224,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 565616200,
+          "total" : 565616200
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 92512300,
+        "total" : 144513712200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 16151300,
+        "total" : 75368420400
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 628,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 628,
+        "totalTime" : 92512300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'pythonProject13' (pythonProject13)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 628,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 92512300,
+          "total" : 92512300
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 49418300,
+        "total" : 144513712200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 9700300,
+        "total" : 75368420400
+      },
+      "totalNumberOfFiles" : 6,
+      "totalFilesSize" : 6777,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 6777,
+        "totalTime" : 49418300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'pythonProject13' (pythonProject13)",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : 6777,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 49418300,
+          "total" : 49418300
+        }
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalProcessingTime" : {
+        "part" : 32063000,
+        "total" : 144513712200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 27582800,
+        "total" : 75368420400
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 42,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 42,
+        "totalTime" : 32063000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'pythonProject13' (pythonProject13)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 42,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 32063000,
+          "total" : 32063000
+        }
+      } ]
+    }, {
+      "fileType" : "AUTO_DETECTED",
+      "partOfTotalProcessingTime" : {
+        "part" : 8256600,
+        "total" : 144513712200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 622200,
+        "total" : 75368420400
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 0,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 0,
+        "totalTime" : 8256600
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'pythonProject13' (pythonProject13)",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 0,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 8256600,
+          "total" : 8256600
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 47794518700,
+        "total" : 48724854900
+      },
+      "totalNumberOfFiles" : 2551,
+      "totalNumberOfFilesIndexedByExtensions" : 2110,
+      "totalFilesSize" : 39634865,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 39634865,
+        "totalTime" : 47794518700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 526737900,
+        "total" : 48724854900
+      },
+      "totalNumberOfFiles" : 2589,
+      "totalNumberOfFilesIndexedByExtensions" : 2116,
+      "totalFilesSize" : 40062908,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 40062908,
+        "totalTime" : 526737900
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 403389900,
+        "total" : 48724854900
+      },
+      "totalNumberOfFiles" : 2592,
+      "totalNumberOfFilesIndexedByExtensions" : 2116,
+      "totalFilesSize" : 40062908,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 40062908,
+        "totalTime" : 403389900
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : {
+        "part" : 139200,
+        "total" : 48724854900
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 1,
+      "totalFilesSize" : 628,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 628,
+        "totalTime" : 139200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 42200,
+        "total" : 48724854900
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 1,
+      "totalFilesSize" : 628,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 628,
+        "totalTime" : 42200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : {
+        "part" : 13900,
+        "total" : 48724854900
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 1,
+      "totalFilesSize" : 628,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 628,
+        "totalTime" : 13900
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 13100,
+        "total" : 48724854900
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 1,
+      "totalFilesSize" : 628,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 628,
+        "totalTime" : 13100
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'pythonProject13' (pythonProject13)",
+      "numberOfScannedFiles" : 795,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 771,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 4584133900,
+      "scanningTime" : 4599925000,
+      "timeProcessingUpToDateFiles" : 22686800,
+      "timeUpdatingContentLessIndexes" : 104496000,
+      "timeIndexingWithoutContent" : 16560400,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Python SDK Python 3.9 (pythonProject13) C:/Users/ielts/AppData/Local/Programs/Python/Python39/DLLs, C:/Users/ielts/AppData/Local/Programs/Python/Python39/Lib, C:/Users/ielts/AppData/Local/Programs/Python/Python39, C:/Users/ielts/PycharmProjects/pythonProject13/venv, C:/Users/ielts/PycharmProjects/pythonProject13/venv/Lib/site-packages, C:/Users/ielts/AppData/Local/JetBrains/PyCharmCE2022.3/python_stubs/-878939191, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/python-skeletons, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stdlib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/six, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/boto, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/mock, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pytz, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/toml, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/annoy, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/babel, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/emoji, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/first, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/fpdf2, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/ldap3, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/polib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/redis, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/regex, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/retry, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/ujson, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/bleach, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/caldav, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/docopt, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/hdbcli, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/invoke, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/passpy, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Pillow, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/psutil, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pycurl, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pynput, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pysftp, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/PyYAML, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/stripe, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/xxhash, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/appdirs, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/certifi, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/chardet, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/chevron, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/passlib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyaudio, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/PyMySQL, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyvmomi, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/slumber, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/tzlocal, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/urllib3, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/vobject, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/aiofiles, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/colorama, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/croniter, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/docutils, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/filelock, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/html5lib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/httplib2, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/jmespath, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Markdown, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/oauthlib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/openpyxl, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/paramiko, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/psycopg2, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyflakes, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Pygments, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/requests, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/selenium, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/tabulate, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/toposort, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/waitress, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/braintree, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/decorator, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/freezegun, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/playsound, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyOpenSSL, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/termcolor, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/ttkthemes, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/typed-ast, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/xmltodict, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/cachetools, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/commonmark, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/dateparser, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Deprecated, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Flask-Cors, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/frozendict, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/jsonschema, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyfarmhash, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Send2Trash, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/setuptools, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/simplejson, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/SQLAlchemy, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/contextvars, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/dataclasses, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/entrypoints, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-2020, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/JACK-Client, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/mysqlclient, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/opentracing, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pep8-naming, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/prettytable, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-jose, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-nmap, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/stdlib-list, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/atomicwrites, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/aws-xray-sdk, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/cryptography, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/editdistance, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/parsimonious, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/whatthepatch, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/click-spinner, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/humanfriendly, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-gflags, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/beautifulsoup4, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/characteristic, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-bugbear, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-slugify, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/singledispatch, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-builtins, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-simplify, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-dateutil, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Flask-SQLAlchemy, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-docstrings, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-plugin-utils, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pytest-lazy-fixture, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-rst-docstrings, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-typing-imports, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/backports.ssl_match_hostname",
+      "numberOfScannedFiles" : 7020,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 1821,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1364339300,
+      "scanningTime" : 1397593400,
+      "timeProcessingUpToDateFiles" : 387708400,
+      "timeUpdatingContentLessIndexes" : 51100000,
+      "timeIndexingWithoutContent" : 39013900,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@2b12619' (non-project)",
+      "numberOfScannedFiles" : 215,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 91999600,
+      "scanningTime" : 93241500,
+      "timeProcessingUpToDateFiles" : 7595000,
+      "timeUpdatingContentLessIndexes" : 1098200,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@2b12619' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Python SDK Python 3.9 (pythonProject13) C:/Users/ielts/AppData/Local/Programs/Python/Python39/DLLs, C:/Users/ielts/AppData/Local/Programs/Python/Python39/Lib, C:/Users/ielts/AppData/Local/Programs/Python/Python39, C:/Users/ielts/PycharmProjects/pythonProject13/venv, C:/Users/ielts/PycharmProjects/pythonProject13/venv/Lib/site-packages, C:/Users/ielts/AppData/Local/JetBrains/PyCharmCE2022.3/python_stubs/-878939191, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/python-skeletons, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stdlib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/six, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/boto, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/mock, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pytz, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/toml, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/annoy, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/babel, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/emoji, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/first, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/fpdf2, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/ldap3, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/polib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/redis, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/regex, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/retry, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/ujson, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/bleach, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/caldav, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/docopt, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/hdbcli, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/invoke, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/passpy, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Pillow, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/psutil, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pycurl, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pynput, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pysftp, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/PyYAML, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/stripe, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/xxhash, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/appdirs, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/certifi, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/chardet, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/chevron, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/passlib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyaudio, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/PyMySQL, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyvmomi, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/slumber, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/tzlocal, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/urllib3, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/vobject, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/aiofiles, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/colorama, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/croniter, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/docutils, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/filelock, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/html5lib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/httplib2, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/jmespath, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Markdown, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/oauthlib, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/openpyxl, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/paramiko, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/psycopg2, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyflakes, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Pygments, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/requests, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/selenium, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/tabulate, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/toposort, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/waitress, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/braintree, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/decorator, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/freezegun, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/playsound, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyOpenSSL, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/termcolor, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/ttkthemes, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/typed-ast, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/xmltodict, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/cachetools, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/commonmark, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/dateparser, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Deprecated, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Flask-Cors, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/frozendict, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/jsonschema, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pyfarmhash, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Send2Trash, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/setuptools, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/simplejson, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/SQLAlchemy, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/contextvars, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/dataclasses, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/entrypoints, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-2020, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/JACK-Client, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/mysqlclient, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/opentracing, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pep8-naming, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/prettytable, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-jose, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-nmap, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/stdlib-list, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/atomicwrites, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/aws-xray-sdk, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/cryptography, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/editdistance, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/parsimonious, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/whatthepatch, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/click-spinner, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/humanfriendly, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-gflags, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/beautifulsoup4, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/characteristic, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-bugbear, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-slugify, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/singledispatch, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-builtins, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-simplify, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/python-dateutil, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/Flask-SQLAlchemy, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-docstrings, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-plugin-utils, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/pytest-lazy-fixture, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-rst-docstrings, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/flake8-typing-imports, C:/Program Files/JetBrains/PyCharm Community Edition 2022.3.2/plugins/python-ce/helpers/typeshed/stubs/backports.ssl_match_hostname",
+      "totalNumberOfIndexedFiles" : 1821,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 1402,
+      "totalIndexingVisibleTime" : 42428909500,
+      "contentLoadingVisibleTime" : 20240283145,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "pydoc.py",
+        "processingTime" : 1226025000,
+        "evaluationOfIndexValueChangerTime" : 370745600,
+        "contentLoadingTime" : 44456300
+      }, {
+        "fileName" : "turtle.py",
+        "processingTime" : 1248766600,
+        "evaluationOfIndexValueChangerTime" : 926549000,
+        "contentLoadingTime" : 196523900
+      }, {
+        "fileName" : "inspect.py",
+        "processingTime" : 1515609800,
+        "evaluationOfIndexValueChangerTime" : 759182300,
+        "contentLoadingTime" : 34635200
+      }, {
+        "fileName" : "test_pickle.py",
+        "processingTime" : 1532514300,
+        "evaluationOfIndexValueChangerTime" : 40307700,
+        "contentLoadingTime" : 1474101100
+      }, {
+        "fileName" : "test_keywordonlyarg.py",
+        "processingTime" : 1478318400,
+        "evaluationOfIndexValueChangerTime" : 134600,
+        "contentLoadingTime" : 1476728500
+      }, {
+        "fileName" : "typing.py",
+        "processingTime" : 1540008500,
+        "evaluationOfIndexValueChangerTime" : 1412371100,
+        "contentLoadingTime" : 68915400
+      }, {
+        "fileName" : "test_sax.py",
+        "processingTime" : 1732543700,
+        "evaluationOfIndexValueChangerTime" : 1312344400,
+        "contentLoadingTime" : 42654400
+      }, {
+        "fileName" : "pathlib.py",
+        "processingTime" : 2866350700,
+        "evaluationOfIndexValueChangerTime" : 163471400,
+        "contentLoadingTime" : 1743963300
+      }, {
+        "fileName" : "sched.py",
+        "processingTime" : 2108704600,
+        "evaluationOfIndexValueChangerTime" : 213000,
+        "contentLoadingTime" : 1707121900
+      }, {
+        "fileName" : "test_pydoc.py",
+        "processingTime" : 1588264300,
+        "evaluationOfIndexValueChangerTime" : 78607100,
+        "contentLoadingTime" : 1495047300
+      } ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 2040344209
+    }, {
+      "providerName" : "Module 'pythonProject13' (pythonProject13)",
+      "totalNumberOfIndexedFiles" : 771,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 714,
+      "totalIndexingVisibleTime" : 5913354900,
+      "contentLoadingVisibleTime" : 4980613431,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 234898742
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.33590006245389425
+  }
+}

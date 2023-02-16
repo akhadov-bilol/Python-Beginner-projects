@@ -1,0 +1,1046 @@
+{
+  "appInfo" : {
+    "build" : "223.8617.48",
+    "buildDate" : "2023-01-24T13:40:28.202Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2023-02-16T11:32:06.4230239Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 17.0.5 17.0.5+1-b653.25"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1065353216,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 3,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "main.py",
+    "times" : {
+      "indexingReason" : "On project open",
+      "scanningType" : "FULL_ON_PROJECT_OPEN",
+      "totalUpdatingTime" : 389310176700,
+      "indexingTime" : 149220450500,
+      "contentLoadingVisibleTime" : 89639013452,
+      "creatingIteratorsTime" : 484342300,
+      "scanFilesTime" : 239064863500,
+      "pushPropertiesTime" : 15625800,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 15390062383,
+      "updatingStart" : "2023-02-16T11:25:37.1017479Z",
+      "updatingEnd" : "2023-02-16T11:32:06.4074027Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 5,
+      "numberOfScannedFiles" : 55258,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 31798,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 15462,
+      "numberOfFilesIndexedWithLoadingContent" : 31677
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 249930839700,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 154472508100,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 16948,
+      "totalFilesSize" : 226566226,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 226566226,
+        "totalTime" : 249930839700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 16948,
+        "totalFilesSize" : 226566226,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 249930839700,
+          "total" : 249930839700
+        }
+      } ]
+    }, {
+      "fileType" : "PythonStub",
+      "partOfTotalProcessingTime" : {
+        "part" : 74546582300,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 55334465800,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 5360,
+      "totalFilesSize" : 11218861,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 11218861,
+        "totalTime" : 74546582300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 5360,
+        "totalFilesSize" : 11218861,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 74546582300,
+          "total" : 74546582300
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 32198994700,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 12149762800,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 3785,
+      "totalFilesSize" : 48280642,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 48280642,
+        "totalTime" : 32198994700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 3785,
+        "totalFilesSize" : 48280642,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 32198994700,
+          "total" : 32198994700
+        }
+      } ]
+    }, {
+      "fileType" : "JavaScript",
+      "partOfTotalProcessingTime" : {
+        "part" : 25582907300,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 13095062400,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 398,
+      "totalFilesSize" : 51063461,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 51063461,
+        "totalTime" : 25582907300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 398,
+        "totalFilesSize" : 51063461,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 25582907300,
+          "total" : 25582907300
+        }
+      } ]
+    }, {
+      "fileType" : "JSON",
+      "partOfTotalProcessingTime" : {
+        "part" : 21083800400,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 10939367700,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 1206,
+      "totalFilesSize" : 30607189,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 30607189,
+        "totalTime" : 21083800400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 1206,
+        "totalFilesSize" : 30607189,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 21083800400,
+          "total" : 21083800400
+        }
+      } ]
+    }, {
+      "fileType" : "HTML",
+      "partOfTotalProcessingTime" : {
+        "part" : 16499769900,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 9184685700,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 384,
+      "totalFilesSize" : 6783180,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 6783180,
+        "totalTime" : 16499769900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 384,
+        "totalFilesSize" : 6783180,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 16499769900,
+          "total" : 16499769900
+        }
+      } ]
+    }, {
+      "fileType" : "C++",
+      "partOfTotalProcessingTime" : {
+        "part" : 5336351500,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3220946900,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 268,
+      "totalFilesSize" : 9085713,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 9085713,
+        "totalTime" : 5336351500
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 268,
+        "totalFilesSize" : 9085713,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 5336351500,
+          "total" : 5336351500
+        }
+      } ]
+    }, {
+      "fileType" : "SVG",
+      "partOfTotalProcessingTime" : {
+        "part" : 4477997400,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2809052100,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 588,
+      "totalFilesSize" : 2549312,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 2549312,
+        "totalTime" : 4477997400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 588,
+        "totalFilesSize" : 2549312,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 4477997400,
+          "total" : 4477997400
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 2338382500,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 216381600,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 509,
+      "totalFilesSize" : 7292259,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 7292259,
+        "totalTime" : 2338382500
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 509,
+        "totalFilesSize" : 7292259,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2338382500,
+          "total" : 2338382500
+        }
+      } ]
+    }, {
+      "fileType" : "AUTO_DETECTED",
+      "partOfTotalProcessingTime" : {
+        "part" : 2217689300,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 203316700,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 731,
+      "totalFilesSize" : 0,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 0,
+        "totalTime" : 2217689300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 731,
+        "totalFilesSize" : 0,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2217689300,
+          "total" : 2217689300
+        }
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 2064403800,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 842413900,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 61,
+      "totalFilesSize" : 311866,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 311866,
+        "totalTime" : 2064403800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 61,
+        "totalFilesSize" : 311866,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2064403800,
+          "total" : 2064403800
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 1783251300,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 725977300,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 111,
+      "totalFilesSize" : 1530458,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 1530458,
+        "totalTime" : 1783251300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 111,
+        "totalFilesSize" : 1530458,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1783251300,
+          "total" : 1783251300
+        }
+      } ]
+    }, {
+      "fileType" : "CSS",
+      "partOfTotalProcessingTime" : {
+        "part" : 1436982500,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 759636900,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 90,
+      "totalFilesSize" : 1527263,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 1527263,
+        "totalTime" : 1436982500
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 90,
+        "totalFilesSize" : 1527263,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1436982500,
+          "total" : 1436982500
+        }
+      } ]
+    }, {
+      "fileType" : "ReST",
+      "partOfTotalProcessingTime" : {
+        "part" : 1250636300,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 973273300,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 77,
+      "totalFilesSize" : 278483,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 278483,
+        "totalTime" : 1250636300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 77,
+        "totalFilesSize" : 278483,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1250636300,
+          "total" : 1250636300
+        }
+      } ]
+    }, {
+      "fileType" : "TOML",
+      "partOfTotalProcessingTime" : {
+        "part" : 970334700,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 900340200,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 124,
+      "totalFilesSize" : 4343,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 4343,
+        "totalTime" : 970334700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 124,
+        "totalFilesSize" : 4343,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 970334700,
+          "total" : 970334700
+        }
+      } ]
+    }, {
+      "fileType" : "UNKNOWN",
+      "partOfTotalProcessingTime" : {
+        "part" : 634713900,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 19220700,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 977,
+      "totalFilesSize" : 21681947,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 21681947,
+        "totalTime" : 634713900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 977,
+        "totalFilesSize" : 21681947,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 634713900,
+          "total" : 634713900
+        }
+      } ]
+    }, {
+      "fileType" : "EditorConfig",
+      "partOfTotalProcessingTime" : {
+        "part" : 299042400,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 14956900,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 205,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 205,
+        "totalTime" : 299042400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 205,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 299042400,
+          "total" : 299042400
+        }
+      } ]
+    }, {
+      "fileType" : "YAML",
+      "partOfTotalProcessingTime" : {
+        "part" : 283885200,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 123057400,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : 16323,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 16323,
+        "totalTime" : 283885200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : 16323,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 283885200,
+          "total" : 283885200
+        }
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalProcessingTime" : {
+        "part" : 158199100,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 144471400,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 18,
+      "totalFilesSize" : 1526,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 1526,
+        "totalTime" : 158199100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 18,
+        "totalFilesSize" : 1526,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 158199100,
+          "total" : 158199100
+        }
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 97980100,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 45843600,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 6,
+      "totalFilesSize" : 47304,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 47304,
+        "totalTime" : 97980100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : 47304,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 97980100,
+          "total" : 97980100
+        }
+      } ]
+    }, {
+      "fileType" : "Shell Script",
+      "partOfTotalProcessingTime" : {
+        "part" : 88612800,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 54441400,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : 18981,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 18981,
+        "totalTime" : 88612800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 15,
+        "totalFilesSize" : 18981,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 88612800,
+          "total" : 88612800
+        }
+      } ]
+    }, {
+      "fileType" : "C#",
+      "partOfTotalProcessingTime" : {
+        "part" : 71497900,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 65597400,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 8,
+      "totalFilesSize" : 10220,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 10220,
+        "totalTime" : 71497900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : 10220,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 71497900,
+          "total" : 71497900
+        }
+      } ]
+    }, {
+      "fileType" : "Dictionary",
+      "partOfTotalProcessingTime" : {
+        "part" : 22840000,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 21795700,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 84,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 84,
+        "totalTime" : 22840000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 84,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 22840000,
+          "total" : 22840000
+        }
+      } ]
+    }, {
+      "fileType" : "JSP",
+      "partOfTotalProcessingTime" : {
+        "part" : 11930200,
+        "total" : 443387625200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 10689400,
+        "total" : 266327265300
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 193,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 193,
+        "totalTime" : 11930200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'ielts' (ielts)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 193,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 11930200,
+          "total" : 11930200
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 78239285500,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 21027,
+      "totalNumberOfFilesIndexedByExtensions" : 15004,
+      "totalFilesSize" : 215741514,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 215741514,
+        "totalTime" : 78239285500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 21069817300,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 27457,
+      "totalNumberOfFilesIndexedByExtensions" : 15462,
+      "totalFilesSize" : 338914194,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 338914194,
+        "totalTime" : 21069817300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 6136144600,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 28190,
+      "totalNumberOfFilesIndexedByExtensions" : 15462,
+      "totalFilesSize" : 338914278,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 338914278,
+        "totalTime" : 6136144600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "html5.custom.attributes.index",
+      "partOfTotalIndexingTime" : {
+        "part" : 1204131800,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 369,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 6740676,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 6740676,
+        "totalTime" : 1204131800
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "json.file.root.values",
+      "partOfTotalIndexingTime" : {
+        "part" : 1121508100,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 932,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 24382961,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 24382961,
+        "totalTime" : 1121508100
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "editorconfig.index.name",
+      "partOfTotalIndexingTime" : {
+        "part" : 276834900,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 205,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 205,
+        "totalTime" : 276834900
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "yaml.keys.name",
+      "partOfTotalIndexingTime" : {
+        "part" : 118502400,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 9,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 16323,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 16323,
+        "totalTime" : 118502400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : {
+        "part" : 56418900,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 105,
+      "totalNumberOfFilesIndexedByExtensions" : 14,
+      "totalFilesSize" : 1409828,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1409828,
+        "totalTime" : 56418900
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 22658600,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 105,
+      "totalNumberOfFilesIndexedByExtensions" : 14,
+      "totalFilesSize" : 1409828,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1409828,
+        "totalTime" : 22658600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : {
+        "part" : 21142600,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 102,
+      "totalNumberOfFilesIndexedByExtensions" : 14,
+      "totalFilesSize" : 1399145,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1399145,
+        "totalTime" : 21142600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 18558700,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 105,
+      "totalNumberOfFilesIndexedByExtensions" : 14,
+      "totalFilesSize" : 1409828,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1409828,
+        "totalTime" : 18558700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "SchemaTypeInheritance",
+      "partOfTotalIndexingTime" : {
+        "part" : 5240600,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2173,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2173,
+        "totalTime" : 5240600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "XmlTagNames",
+      "partOfTotalIndexingTime" : {
+        "part" : 4007300,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2173,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2173,
+        "totalTime" : 4007300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "XmlNamespaces",
+      "partOfTotalIndexingTime" : {
+        "part" : 2887500,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2173,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2173,
+        "totalTime" : 2887500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 0,
+        "total" : 108297138800
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 248,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 248,
+        "totalTime" : 0
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'ielts' (ielts)",
+      "numberOfScannedFiles" : 55043,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 31798,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 230259431000,
+      "scanningTime" : 232226793800,
+      "timeProcessingUpToDateFiles" : 1676464500,
+      "timeUpdatingContentLessIndexes" : 6627707300,
+      "timeIndexingWithoutContent" : 444668200,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@2b12619' (non-project)",
+      "numberOfScannedFiles" : 215,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 4844260200,
+      "scanningTime" : 4927491800,
+      "timeProcessingUpToDateFiles" : 127898300,
+      "timeUpdatingContentLessIndexes" : 12277000,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@2b12619' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'ielts' (ielts)",
+      "totalNumberOfIndexedFiles" : 31677,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 15462,
+      "totalIndexingVisibleTime" : 149233047000,
+      "contentLoadingVisibleTime" : 89639013452,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "pyparsing.py",
+        "processingTime" : 679520600,
+        "evaluationOfIndexValueChangerTime" : 629135500,
+        "contentLoadingTime" : 30410200
+      }, {
+        "fileName" : "wallet-stable.json",
+        "processingTime" : 687613200,
+        "evaluationOfIndexValueChangerTime" : 292768200,
+        "contentLoadingTime" : 34890300
+      }, {
+        "fileName" : "infinite_recursion.py",
+        "processingTime" : 726535200,
+        "evaluationOfIndexValueChangerTime" : 690395400,
+        "contentLoadingTime" : 20873900
+      }, {
+        "fileName" : "uts46data.py",
+        "processingTime" : 778018800,
+        "evaluationOfIndexValueChangerTime" : 584100300,
+        "contentLoadingTime" : 41793500
+      }, {
+        "fileName" : "ZdcKb8iBL43cZpI23gmr7tsZ7W8.br[1].js",
+        "processingTime" : 767073800,
+        "evaluationOfIndexValueChangerTime" : 199016000,
+        "contentLoadingTime" : 31663000
+      }, {
+        "fileName" : "edge_driver.js",
+        "processingTime" : 1295018200,
+        "evaluationOfIndexValueChangerTime" : 296030400,
+        "contentLoadingTime" : 645041800
+      }, {
+        "fileName" : "kernel32.py",
+        "processingTime" : 962873800,
+        "evaluationOfIndexValueChangerTime" : 910739000,
+        "contentLoadingTime" : 19811800
+      }, {
+        "fileName" : "Day-7-Hangman-Final - Replit.html",
+        "processingTime" : 1934193200,
+        "evaluationOfIndexValueChangerTime" : 1270650400,
+        "contentLoadingTime" : 599620900
+      }, {
+        "fileName" : "vendor.bundle.js",
+        "processingTime" : 1019164100,
+        "evaluationOfIndexValueChangerTime" : 205365100,
+        "contentLoadingTime" : 430461100
+      }, {
+        "fileName" : "edge_driver.js",
+        "processingTime" : 1167294300,
+        "evaluationOfIndexValueChangerTime" : 346357000,
+        "contentLoadingTime" : 593945100
+      } ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 15390062383
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.33657467759206194
+  }
+}

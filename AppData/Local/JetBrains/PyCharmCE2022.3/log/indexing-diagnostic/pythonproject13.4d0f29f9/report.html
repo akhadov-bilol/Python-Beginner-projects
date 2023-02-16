@@ -1,0 +1,227 @@
+<html>
+  <head>
+    <title>Indexing diagnostics of 'pythonProject13'</title>
+    <style>body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  width: 80%;
+}
+
+table.two-columns td {
+  width: 50%;
+}
+
+th, td {
+  padding: 3px;
+}
+
+th {
+  background: lightgrey;
+}
+
+td {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+        
+.stats-content {
+  margin-left: 20%;
+}
+
+.aggregate-report-content {
+  margin-left: 10%;
+}
+
+.navigation-bar {
+  width: 15%;
+  background-color: lightgrey;
+  position: fixed;
+  height: 100%;
+}
+
+div.navigation-bar ul {
+  list-style-type: none;
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+}
+
+div.navigation-bar ul li a, label {
+  display: block;
+  color: #000;
+  padding: 8px 20px;
+  text-decoration: none;
+}
+
+label input {
+  margin-left: 10px;
+  width: 20px;
+  height: 20px;
+}
+
+div.navigation-bar ul li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+.minor-data {}
+
+.invisible {
+  display: none;
+}
+
+.jetbrains-logo {
+  width: 50%;
+  bottom: 5%;
+  position: absolute;
+  left: 20%;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+.linkable-table-row:hover {
+  background: #f2f3ff;
+  outline: none;
+  cursor: pointer;
+}</style>
+    <script>document.addEventListener("DOMContentLoaded", () => {
+  const rows = document.getElementsByClassName("linkable-table-row")
+  for (const row of rows) {
+    const href = row.getAttribute("href")
+    row.addEventListener("click", () => {
+      window.open(href, "_blank");
+    });
+  }
+});</script>
+  </head>
+  <body>
+    <div class="aggregate-report-content">
+      <h1 class="Project name"></h1>
+pythonProject13
+      <div>
+        <h1 class="Indexing history"></h1>
+        <table class="centered-text"><caption style="caption-side: bottom; text-align: right; font-size: 14px">Hover for details</caption>
+          <thead>
+            <tr>
+              <th colspan="7">Time</th>
+              <th colspan="6">Files</th>
+              <th rowspan="2">IDE</th>
+              <th rowspan="2">Type</th>
+            </tr>
+            <tr>
+              <th>Started</th>
+              <th>Total</th>
+              <th>Creating iterators</th>
+              <th>Scanning</th>
+              <th>Indexing</th>
+              <th>Content loading</th>
+              <th>Finished</th>
+              <th>Providers</th>
+              <th>Scanned</th>
+              <th>Shared indexes (w/o content loading)</th>
+              <th>Scheduled for indexing</th>
+              <th>Shared indexes (content loaded)</th>
+              <th>Total indexed (shared indexes included)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="linkable-table-row" href="diagnostic-2023-02-16-16-27-39.401.html">
+              <td><strong class="On refresh of 156 files"></strong><br>16:27:37 16 Feb</td>
+              <td>1 s 54 ms</td>
+              <td>0</td>
+              <td>41 ms</td>
+              <td>1 s 60 ms</td>
+              <td>39 ms</td>
+              <td>16:27:38 16 Feb</td>
+              <td>1</td>
+              <td>156</td>
+              <td>0</td>
+              <td>156</td>
+              <td>67</td>
+              <td>156</td>
+              <td>PC-223.8617.48</td>
+              <td>refresh</td>
+            </tr>
+            <tr class="linkable-table-row" href="diagnostic-2023-02-16-16-27-37.513.html">
+              <td><strong class="On project open"></strong><br>16:26:43 16 Feb</td>
+              <td>53 s 929 ms</td>
+              <td>1 ms</td>
+              <td>4 s 657 ms</td>
+              <td>48 s 366 ms</td>
+              <td>25 s 220 ms</td>
+              <td>16:27:37 16 Feb</td>
+              <td>6</td>
+              <td>8030</td>
+              <td>0</td>
+              <td>2592</td>
+              <td>2116</td>
+              <td>2592</td>
+              <td>PC-223.8617.48</td>
+              <td>partial</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div>
+        <h1 class="Shared Indexes"></h1>
+        <table>
+          <thead>
+            <tr>
+              <th>Time</th>
+              <th>Kind</th>
+              <th>Name</th>
+              <th>Size</th>
+              <th>Download time</th>
+              <th>Download speed</th>
+              <th>Status</th>
+              <th>ID</th>
+              <th>Generation time</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div>
+        <h1 class="Scanning to push properties of changed files"></h1>
+        <table>
+          <thead>
+            <tr>
+              <th>Time</th>
+              <th>Reason</th>
+              <th>Full duration</th>
+              <th>Is cancelled</th>
+              <th>Number</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>16:27:37 16 Feb</td>
+              <td>Push on VFS changes</td>
+              <td>1 ms</td>
+              <td>fully finished</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>16:26:42 16 Feb</td>
+              <td>Push on VFS changes</td>
+              <td>263 ms</td>
+              <td>fully finished</td>
+              <td>1</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>
+</html>
